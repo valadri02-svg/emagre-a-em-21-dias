@@ -1,0 +1,8 @@
+{
+  "name": "Copy of dias21 - Sua Jornada Automática",
+  "description": "Uma página de vendas moderna e persuasiva para um SaaS de 21 dias focado em rotina saudável e orientação alimentar automática.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
